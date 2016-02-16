@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./famulusofterence00tereuoft_0006.png"; bbox 0 0 1528 2433; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 469 909 1202 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 469 909 1202 1055">
+     <span class='ocr_line' id='line_1_1' title="bbox 596 909 1064 943; baseline -0.002 -7"><span class='ocrx_word' id='word_1_1' title='bbox 596 909 740 937; x_wconf 80' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_2' title='bbox 767 909 956 943; x_wconf 80' lang='lat' dir='ltr'>FROWDE,</span> <span class='ocrx_word' id='word_1_3' title='bbox 984 909 1064 936; x_wconf 86' lang='lat' dir='ltr'><strong>M.A.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 469 969 1202 992; baseline -0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 469 970 646 992; x_wconf 66' lang='lat' dir='ltr'>Punmsmzk</span> <span class='ocrx_word' id='word_1_5' title='bbox 665 970 704 991; x_wconf 83' lang='grc' dir='ltr'>το</span> <span class='ocrx_word' id='word_1_6' title='bbox 722 970 788 991; x_wconf 69' lang='grc' dir='ltr'>τηε</span> <span class='ocrx_word' id='word_1_7' title='bbox 805 970 1000 991; x_wconf 71' lang='lat' dir='ltr'>umvERsnv</span> <span class='ocrx_word' id='word_1_8' title='bbox 1018 969 1058 990; x_wconf 80' lang='grc' dir='ltr'><strong>οι-“</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1076 969 1202 991; x_wconf 72' lang='grc' dir='ltr'>οκι-οκυ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 505 1022 1169 1055; baseline -0.005 -7"><span class='ocrx_word' id='word_1_10' title='bbox 505 1023 668 1055; x_wconf 72' lang='grc' dir='ltr'>Ῑ,ΟΝ1)ΟΝ,</span> <span class='ocrx_word' id='word_1_11' title='bbox 695 1023 931 1055; x_wconf 72' lang='lat' dir='ltr'>EDINBURGH,</span> <span class='ocrx_word' id='word_1_12' title='bbox 958 1022 1042 1046; x_wconf 77' lang='lat' dir='ltr'>NEW</span> <span class='ocrx_word' id='word_1_13' title='bbox 1067 1022 1169 1047; x_wconf 83' lang='lat' dir='ltr'><strong>YORK</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 575 1081 1107 1107">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 575 1081 1107 1107">
+     <span class='ocr_line' id='line_1_4' title="bbox 575 1081 1107 1107; baseline -0.002 0"><span class='ocrx_word' id='word_1_14' title='bbox 575 1082 750 1107; x_wconf 80' lang='lat' dir='ltr'><strong>TORONTO</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 774 1083 853 1107; x_wconf 73' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_16' title='bbox 881 1081 1107 1107; x_wconf 83' lang='lat' dir='ltr'>MELBOURNE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
